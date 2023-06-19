@@ -35,12 +35,12 @@
     line-height: 1;
   }
   .sveltio-button--primary {
-    color: --primary-color;
+    color: #4772fa;
     background-color: #6bedb5;
   }
   .sveltio-button--secondary {
     color: #ffffff;
-    background-color: --primary-color;
+    background-color: #4772fa;
     box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
   }
   .sveltio-button--small {
@@ -57,36 +57,36 @@
   }
 
   .sveltio-button--primary :hover {
-    color: --primary-color;
+    color: #4772fa;
     background-color: #55bd90;
   }
 
   .sveltio-button--primary :active {
-    color: --primary-color;
+    color: #4772fa;
     background-color: #55bd90;
-    border: solid 2px --primary-color;
+    border: solid 2px #4772fa;
   }
 
   .sveltio-button--primary :disabled {
-    color: --primary-color;
+    color: #4772fa;
     opacity: 0.5;
     background-color: #6bedb5;
   }
 
   .sveltio-button--secondary :hover {
-    color: --primary-color;
+    color: #4772fa;
     background-color: #55bd90;
   }
 
   .sveltio-button--secondary :active {
-    color: --primary-color;
+    color: #4772fa;
     background-color: #6bedb5;
-    border: solid 2px --primary-color;
+    border: solid 2px #4772fa;
   }
 
   .sveltio-button--secondary :disabled {
     color: #ffffff;
     opacity: 0.5;
-    background-color: --primary-color;
+    background-color: #4772fa;
   }
 </style>
